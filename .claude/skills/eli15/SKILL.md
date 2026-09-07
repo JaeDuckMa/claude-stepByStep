@@ -1,9 +1,9 @@
 ---
-name: eli5
-description: Explain a topic like I am 15 years old. Use when the user says eli5, asks to explain something like they are fifteen, asks for a picture-first explainer a middle- or high-schooler could follow, or says things like "쉽게 설명해 줘" or "15살한테 설명하듯".
+name: eli15
+description: Explain a topic like I am 15 years old. Use when the user says eli15, asks to explain something like they are fifteen, asks for a picture-first explainer a middle- or high-schooler could follow, or says things like "쉽게 설명해 줘" or "15살한테 설명하듯".
 ---
 
-# eli5
+# eli15
 
 Explain like I'm a curious 15-year-old who has never studied this topic, using an HTML artifact with big pictures and short text.
 
